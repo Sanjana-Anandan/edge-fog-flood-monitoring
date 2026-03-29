@@ -21,26 +21,21 @@ A real-time distributed flood monitoring system using Edge Computing, Fog Comput
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 
-2️⃣ Install Dependencies
-
+### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
 
-3️⃣ Run Backend (Simulation)
-
+### 3️⃣ Run Backend (Simulation)
+```bash
 python main.py
 
-3️⃣ Run Dashboard (In another terminal as soon as you run backend)
-
+### 3️⃣ Run Dashboard (In another terminal as soon as you run backend)
+```bash
 streamlit run app.py
-
+```
 ▶️ How to Use
 Click Start to begin simulation
 Click Pause to stop at current state
 Click Start again to resume
 Click Reset to restart simulation
 
-
-
-```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
